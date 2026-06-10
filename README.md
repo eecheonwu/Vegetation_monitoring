@@ -1,4 +1,4 @@
-# Opt-Efficient Vision Transformer for Fractional Vegetation Cover Prediction
+# Efficient Vision Transformer for Fractional Vegetation Cover Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
@@ -7,7 +7,7 @@
 
 ## Overview
 
-Opt-Efficient Vision Transformer (Opt-EVT) is an AI-driven remote sensing solution developed to predict **Fractional Vegetation Cover (FVC)** from imagery using an optimized Vision Transformer architecture. The project combines transformer-based deep learning, model pruning, performance optimization, and interactive deployment to provide an efficient and scalable framework for vegetation monitoring.
+Efficient Vision Transformer (Opt-EVT) is an AI-driven remote sensing solution developed to predict **Fractional Vegetation Cover (FVC)** from imagery using an optimized Vision Transformer architecture. The project combines transformer-based deep learning, model pruning, performance optimization, and interactive deployment to provide an efficient and scalable framework for vegetation monitoring.
 
 The solution is designed for researchers, environmental scientists, agricultural analysts, and geospatial practitioners seeking accurate vegetation estimation while minimizing computational costs.
 

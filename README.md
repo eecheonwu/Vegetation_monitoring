@@ -13,21 +13,6 @@ The solution is designed for researchers, environmental scientists, agricultural
 
 ---
 
-## AI-Native Software Engineering
-
-This project was designed following **AI-Native Software Engineering principles**, where system architecture, model design, optimization workflows, validation strategies, and deployment considerations were integrated from the earliest stages of development.
-
-Key engineering principles include:
-
-- Architecture-first development
-- Performance-aware model design
-- Automated validation and testing
-- Deployment-ready implementation
-- Resource-efficient optimization
-- Reproducible experimentation
-
----
-
 ## Features
 
 - Vision Transformer-based regression model
